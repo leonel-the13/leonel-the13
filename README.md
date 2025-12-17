@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Nome-Victor%20Leonel%20Masgo-3a86ff?style=flat-square&labelColor=181B27&logo=github&logoColor=55ffe7">
   <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Luanda-8338ec?style=flat-square&logo=google-maps&logoColor=fff">
-  <img src="https://img.shields.io/badge/Empresa-Sociedade%20An%C3%B4nima-3a86ff?style=flat-square&logo=workplace&logoColor=fff">
 </p>
 
 ---
