@@ -56,7 +56,7 @@ public:
 |:-------:|:----------:|:---------------|:--------:|
 | **2024** | 🥈 **2nd Place** | **Africell Code Fast** | National |
 | **2024** | 🥉 **3rd Place** | **NASA Space Apps Challenge** | International 🌎 |
-| **2024** | 🥉 **3rd Place** | **ISPTEC Programming Competition** | University |
+| **2023** | 🥉 **3rd Place** | **ISPTEC Programming Competition** | University |
 
 </div>
 
