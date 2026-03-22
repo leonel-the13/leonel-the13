@@ -243,7 +243,7 @@ public:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-victor--leonel--the13-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-leonel-the13/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-victor--leonel--the13-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-kangombe/)
 [![Email](https://img.shields.io/badge/Email-vicor32leonel@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicor32leonel@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-leonel--the13-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonel-the13)
 [![LeetCode](https://img.shields.io/badge/LeetCode-leonel--the13-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
