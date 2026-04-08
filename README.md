@@ -6,7 +6,7 @@
 
 ### 🏆 Competitive Programmer | Backend Architect | Problem Solver
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=Competitive+Programmer+%7C+Problem+Solver;Building+High-Performance+Systems;LeetCode+%7C+Codeforces+%7C+Beecrowd;Turning+Caffeine+into+Code+%E2%98%95%EF%B8%8F;4x+Podium+Finisher+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=Competitive+Programmer+%7C+Problem+Solver;Building+High-Performance+Systems;LeetCode+%7C+Codeforces+%7C+Beecrowd;Turning+Caffeine+into+Code+%E2%98%95%EF%B8%8F;3x+Podium+Finisher+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,6&height=180&section=header&text=May%20the%20Code%20be%20with%20You&fontSize=35&fontColor=fff&animation=twinkling" />
 
