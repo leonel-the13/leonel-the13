@@ -57,7 +57,7 @@ public:
 | **2026** | 🥇 **1st Place** | **Hackathon OSTJA** | National |
 | **2025** | 🥈 **2nd Place** | **Africell Code Fast** | National |
 | **2025** | 🥉 **3rd Place** | **NASA Space Apps Challenge** | International 🌎 |
-| **2023** | 🥉 **3rd Place** | **ISPTEC Programming Competition** | University |
+| **2024** | 🥉 **3rd Place** | **ISPTEC Programming Competition** | University |
 
 </div>
 
