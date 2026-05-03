@@ -1,6 +1,6 @@
 <!-- Leonel Victor Masgo | Competitive Programmer Profile -->
 
-<div align="center">
+<div align="center"> 
 
 # ⚡ Victor Leonel Masgo
 
