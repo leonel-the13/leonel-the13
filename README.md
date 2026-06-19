@@ -55,8 +55,9 @@ public:
 | 🗓️ Year | 🏅 Position | 🎯 Competition | 🌍 Scope |
 |:-------:|:----------:|:---------------|:--------:|
 | **2026** | 🥇 **1st Place** | **Hackathon OSTJA** | National |
+| **2026** | 🥈 **2nd Place** | **Hackathon AngoTic 2026** | National |
 | **2025** | 🥈 **2nd Place** | **Africell Code Fast** | National |
-| **2025** | 🥉 **3rd Place** | **NASA Space Apps Challenge** | International 🌎 |
+| **2025** | 🥉 **3rd Place** | **NASA Space Apps Challenge** | National 🌎 |
 | **2024** | 🥉 **3rd Place** | **ISPTEC Programming Competition** | University |
 
 </div>
