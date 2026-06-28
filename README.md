@@ -153,7 +153,7 @@ public:
 <div align="center">
 
 ```ascii
-      🏆 Podium Finishes: 3
+      🏆 Podium Finishes: 5
       ⚡ Problems Solved: 500+
       🔥 Current Streak: Active
       💻 Favorite Language: C++ / Java
